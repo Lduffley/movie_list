@@ -1,7 +1,7 @@
 class Movie {
   static List<Movie> getMovies() => [
         Movie(
-            title: "Avatar",
+            title: "Avatar"
             year: "2009",
             rated: "PG-13",
             released: "18 Dec 2009",
