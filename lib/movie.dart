@@ -2,7 +2,7 @@ class Movie {
   static List<Movie> getMovies() => [
         Movie(
             title: "Avatar",
-            year: "2009",
+            year: "2009"
             rated: "PG-13",
             released: "18 Dec 2009",
             runtime: "162 min",
